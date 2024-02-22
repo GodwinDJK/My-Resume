@@ -1,5 +1,17 @@
 .presentation {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
 }
+
+img {
+  
+  display: block; //delete;
+  border-radius: 50%;
+}
+/*
+.summary {
+  width: 50%;
+}*/
