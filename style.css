@@ -7,3 +7,62 @@
 img {
   border-radius: 50%;
 }
+
+h1 {
+  padding-top: 2%;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+]
+
+.summary {
+  color: white;
+}
+
+.header {
+  background: linear-gradient(300deg, #360132, #125058, #223326);
+  background-size: 180% 180%;
+  animation: gradient-animation 8s ease infinite;
+
+  background: linear-gradient(300deg, #03094d, #18394d, #07ff4e);
+  background-size: 180% 180%;
+  animation: gradient-animation 8s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/*
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+*/
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+
+  
