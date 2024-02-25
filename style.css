@@ -22,10 +22,6 @@ p {
 }
 
 .header {
-  background: linear-gradient(300deg, #360132, #125058, #223326);
-  background-size: 180% 180%;
-  animation: gradient-animation 8s ease infinite;
-
   background: linear-gradient(300deg, #03094d, #18394d, #07ff4e);
   background-size: 180% 180%;
   animation: gradient-animation 8s ease infinite;
