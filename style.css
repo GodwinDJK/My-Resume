@@ -22,7 +22,7 @@ p {
 }
 
 .header {
-  background: linear-gradient(300deg, #03094d, #18394d, #07ff4e);
+  background: linear-gradient(300deg, #8f949b, #4698b1, #3f6ca7d2);
   background-size: 180% 180%;
   animation: gradient-animation 8s ease infinite;
 }
